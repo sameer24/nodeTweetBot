@@ -1,0 +1,17 @@
+{
+  "name": "1-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^1.2.0",
+    "rita": "^1.1.63",
+    "tracery-grammar": "^2.7.3",
+    "twit": "^2.2.5"
+  }
+}
