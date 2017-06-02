@@ -1,3 +1,4 @@
+// https://egghead.io/lessons/node-js-set-up-a-basic-twitter-bot-with-twit-js
 var Twit = require('twit');
 var request = require('request');
 var fs = require('fs');
